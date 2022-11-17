@@ -50,7 +50,7 @@ maxCo           	0.1;
 maxDeltaT       	1.;
 
 pressArtDiff    	true; //activate artificial diffusion on pressure
-convArtDiff     	false; //activate artificial diffusion on pressure
+convArtDiff     	true; //activate artificial diffusion on pressure
 
 ducLevelPress       	0.00;
 ducLevelConv        	0.05;
